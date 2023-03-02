@@ -1,0 +1,21 @@
+div.sub-field-container-1 {
+    display: flex;
+}
+
+div.card-options {
+    background:  gray;
+}
+
+div#padre {
+    display: table;
+    height:200px;
+}
+
+div#hijo {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+svg {
+     color : white; 
+}
